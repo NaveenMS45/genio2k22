@@ -1,0 +1,16 @@
+{
+  "Contact": [
+    {
+      "name": "NAVEEN MS",
+      "email": "naveensampath2907@gmail.com",
+      "message": "hi",
+      "id": 1
+    },
+    {
+      "name": "RAJESH MR",
+      "email": "rajeshmr262001@gmail.com",
+      "message": "hi",
+      "id": 2
+    }
+  ]
+}
